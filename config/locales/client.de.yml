@@ -1,0 +1,18 @@
+de:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Antwortverzeichnis"
+  js:
+    reply_titles:
+      title: "Antwortverzeichnis"
+      count:
+        one: "%{count} Antwort"
+        other: "%{count} Antworten"
+      show_directory: "Antwortverzeichnis anzeigen"
+      show_timeline: "Zeitleiste anzeigen"
+      loading: "Alle Antworten werden gelesen…"
+      failed: "Das Verzeichnis ist unvollständig. Zum erneuten Versuchen aktualisieren."
+      empty: "Noch keine Antworten mit einer Überschrift mit einem einzelnen # am Anfang."
+      refresh: "Verzeichnis aktualisieren"

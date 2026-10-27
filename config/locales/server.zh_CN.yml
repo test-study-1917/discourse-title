@@ -1,3 +1,4 @@
 zh_CN:
   site_settings:
     reply_titles_enabled: "显示回帖目录，只收录首行以单个 # 标记标题的回帖。"
+    reply_titles_categories: "仅在所选类别中显示回帖目录；留空则在所有类别生效。子类别需要单独选择。选择类别后，私信中不显示目录。"

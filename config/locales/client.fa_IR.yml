@@ -1,0 +1,18 @@
+fa_IR:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "فهرست پاسخ‌ها"
+  js:
+    reply_titles:
+      title: "فهرست پاسخ‌ها"
+      count:
+        one: "%{count} پاسخ"
+        other: "%{count} پاسخ"
+      show_directory: "نمایش فهرست پاسخ‌ها"
+      show_timeline: "نمایش خط زمانی"
+      loading: "در حال خواندن همهٔ پاسخ‌ها…"
+      failed: "فهرست کامل نیست. برای تلاش دوباره آن را تازه‌سازی کنید."
+      empty: "هنوز پاسخی با عنوانی که با یک # شروع شود وجود ندارد."
+      refresh: "تازه‌سازی فهرست"

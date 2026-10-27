@@ -1,0 +1,18 @@
+et:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Vastuste sisukord"
+  js:
+    reply_titles:
+      title: "Vastuste sisukord"
+      count:
+        one: "%{count} vastus"
+        other: "%{count} vastust"
+      show_directory: "Näita vastuste sisukorda"
+      show_timeline: "Näita ajajoont"
+      loading: "Kõigi vastuste lugemine…"
+      failed: "Sisukord pole täielik. Uuesti proovimiseks värskenda."
+      empty: "Veel pole vastuseid, mis algaksid ühe märgiga # pealkirjaga."
+      refresh: "Värskenda sisukorda"

@@ -1,0 +1,4 @@
+vi:
+  site_settings:
+    reply_titles_enabled: "Hiện mục lục các câu trả lời có dòng đầu tiên bắt đầu bằng tiêu đề có một dấu #."
+    reply_titles_categories: "Chỉ hiện mục lục trong các chuyên mục này. Để trống để bật trong tất cả chuyên mục. Cần chọn riêng các chuyên mục con. Khi đã chọn chuyên mục, mục lục không hiển thị trong tin nhắn cá nhân."

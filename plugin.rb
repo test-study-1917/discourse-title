@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-# name: discourse-reply-titles
+# name: discourse-title
 # about: Lists replies with a first-line # heading in the topic sidebar.
-# version: 0.1.0
+# version: 0.2.0
 # authors: commune1871318
-# url: https://github.com/test-study-1917/discourse-
+# url: https://github.com/test-study-1917/discourse-title
 
 enabled_site_setting :reply_titles_enabled
 

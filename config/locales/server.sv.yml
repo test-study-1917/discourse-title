@@ -1,0 +1,4 @@
+sv:
+  site_settings:
+    reply_titles_enabled: "Visa en översikt över svar vars första rad börjar med en rubrik med ett enda #."
+    reply_titles_categories: "Visa bara svarsöversikten i dessa kategorier. Lämna tomt för att aktivera alla kategorier. Underkategorier måste väljas separat. När kategorier är valda visas inte översikten i personliga meddelanden."

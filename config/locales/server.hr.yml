@@ -1,0 +1,4 @@
+hr:
+  site_settings:
+    reply_titles_enabled: "Prikaži sadržaj odgovora čiji prvi redak počinje naslovom s jednim znakom #."
+    reply_titles_categories: "Prikaži sadržaj odgovora samo u ovim kategorijama. Ostavite prazno za sve kategorije. Potkategorije treba odabrati zasebno. Kada su kategorije odabrane, sadržaj se ne prikazuje u osobnim porukama."

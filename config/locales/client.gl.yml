@@ -1,0 +1,18 @@
+gl:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Índice de respostas"
+  js:
+    reply_titles:
+      title: "Índice de respostas"
+      count:
+        one: "%{count} resposta"
+        other: "%{count} respostas"
+      show_directory: "Amosar o índice de respostas"
+      show_timeline: "Amosar a cronoloxía"
+      loading: "Lendo todas as respostas…"
+      failed: "O índice está incompleto. Actualiza para tentalo de novo."
+      empty: "Aínda non hai respostas que comecen cun título cun único #."
+      refresh: "Actualizar o índice"

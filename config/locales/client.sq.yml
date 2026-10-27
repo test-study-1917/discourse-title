@@ -1,0 +1,18 @@
+sq:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Përmbajtja e përgjigjeve"
+  js:
+    reply_titles:
+      title: "Përmbajtja e përgjigjeve"
+      count:
+        one: "%{count} përgjigje"
+        other: "%{count} përgjigje"
+      show_directory: "Shfaq përmbajtjen e përgjigjeve"
+      show_timeline: "Shfaq vijën kohore"
+      loading: "Po lexohen të gjitha përgjigjet…"
+      failed: "Përmbajtja është e paplotë. Rifreskojeni për të provuar përsëri."
+      empty: "Ende nuk ka përgjigje që fillojnë me një titull me një shenjë të vetme #."
+      refresh: "Rifresko përmbajtjen"

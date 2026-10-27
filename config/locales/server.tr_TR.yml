@@ -1,0 +1,4 @@
+tr_TR:
+  site_settings:
+    reply_titles_enabled: "İlk satırı tek bir # işaretli başlıkla başlayan yanıtlar için bir dizin göster."
+    reply_titles_categories: "Yanıt dizinini yalnızca bu kategorilerde göster. Tüm kategorilerde etkinleştirmek için boş bırakın. Alt kategoriler ayrıca seçilmelidir. Kategori seçildiğinde dizin kişisel iletilerde gösterilmez."

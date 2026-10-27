@@ -1,0 +1,18 @@
+hy:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Պատասխանների ցանկ"
+  js:
+    reply_titles:
+      title: "Պատասխանների ցանկ"
+      count:
+        one: "%{count} պատասխան"
+        other: "%{count} պատասխան"
+      show_directory: "Ցույց տալ պատասխանների ցանկը"
+      show_timeline: "Ցույց տալ ժամանակագիծը"
+      loading: "Բոլոր պատասխանների ընթերցում…"
+      failed: "Ցանկը ամբողջական չէ։ Կրկին փորձելու համար թարմացրեք։"
+      empty: "Դեռ չկան պատասխաններ, որոնք սկսվում են մեկ # նշանով վերնագրով։"
+      refresh: "Թարմացնել ցանկը"

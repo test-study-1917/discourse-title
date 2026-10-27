@@ -1,0 +1,20 @@
+sl:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Kazalo odgovorov"
+  js:
+    reply_titles:
+      title: "Kazalo odgovorov"
+      count:
+        one: "%{count} odgovor"
+        other: "%{count} odgovorov"
+        two: "%{count} odgovora"
+        few: "%{count} odgovori"
+      show_directory: "Prikaži kazalo odgovorov"
+      show_timeline: "Prikaži časovnico"
+      loading: "Branje vseh odgovorov…"
+      failed: "Kazalo ni popolno. Osvežite ga in poskusite znova."
+      empty: "Še ni odgovorov, ki se začnejo z naslovom z enim znakom #."
+      refresh: "Osveži kazalo"

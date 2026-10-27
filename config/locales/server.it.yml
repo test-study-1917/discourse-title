@@ -1,0 +1,4 @@
+it:
+  site_settings:
+    reply_titles_enabled: "Mostra un indice delle risposte la cui prima riga inizia con un titolo con un solo #."
+    reply_titles_categories: "Mostra l’indice solo in queste categorie. Lascia vuoto per attivarlo in tutte le categorie. Le sottocategorie devono essere selezionate separatamente. Se vengono selezionate categorie, l’indice non viene mostrato nei messaggi personali."

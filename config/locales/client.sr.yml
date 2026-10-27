@@ -1,0 +1,19 @@
+sr:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Садржај одговора"
+  js:
+    reply_titles:
+      title: "Садржај одговора"
+      count:
+        one: "%{count} одговор"
+        other: "%{count} одговора"
+        few: "%{count} одговора"
+      show_directory: "Прикажи садржај одговора"
+      show_timeline: "Прикажи временску линију"
+      loading: "Учитавање свих одговора…"
+      failed: "Садржај није потпун. Освежите да покушате поново."
+      empty: "Још нема одговора који почињу насловом са једним знаком #."
+      refresh: "Освежи садржај"

@@ -1,0 +1,18 @@
+vi:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Mục lục trả lời"
+  js:
+    reply_titles:
+      title: "Mục lục trả lời"
+      count:
+        one: "%{count} trả lời"
+        other: "%{count} trả lời"
+      show_directory: "Hiện mục lục trả lời"
+      show_timeline: "Hiện dòng thời gian"
+      loading: "Đang đọc tất cả câu trả lời…"
+      failed: "Mục lục chưa đầy đủ. Làm mới để thử lại."
+      empty: "Chưa có câu trả lời nào bắt đầu bằng tiêu đề có một dấu #."
+      refresh: "Làm mới mục lục"

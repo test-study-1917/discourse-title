@@ -3,14 +3,16 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/reply-titles.test.js",
+    "test": "node --test tests/*.test.js",
     "check:templates": "node scripts/check-templates.js",
+    "check:locales": "node --test tests/locales.test.js",
     "package": "node scripts/package.js"
   },
   "devDependencies": {
     "@babel/parser": "^8.0.7",
     "@glimmer/syntax": "^0.97.0",
     "content-tag": "^4.1.0",
-    "jsdom": "^27.0.0"
+    "jsdom": "^27.0.0",
+    "yaml": "^2.9.1"
   }
 }

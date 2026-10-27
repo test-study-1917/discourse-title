@@ -1,3 +1,4 @@
 en:
   site_settings:
     reply_titles_enabled: "Show a reply directory for replies starting with a single # heading."
+    reply_titles_categories: "Only show reply contents in these categories. Leave empty to enable all categories. Subcategories must be selected separately. When categories are selected, personal messages are excluded."

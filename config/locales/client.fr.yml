@@ -1,0 +1,19 @@
+fr:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Sommaire des réponses"
+  js:
+    reply_titles:
+      title: "Sommaire des réponses"
+      count:
+        one: "%{count} réponse"
+        other: "%{count} réponses"
+        many: "%{count} réponses"
+      show_directory: "Afficher le sommaire des réponses"
+      show_timeline: "Afficher la chronologie"
+      loading: "Lecture de toutes les réponses…"
+      failed: "Le sommaire est incomplet. Actualisez pour réessayer."
+      empty: "Aucune réponse ne commence encore par un titre avec un seul #."
+      refresh: "Actualiser le sommaire"

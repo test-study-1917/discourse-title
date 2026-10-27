@@ -1,0 +1,20 @@
+sk:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Obsah odpovedí"
+  js:
+    reply_titles:
+      title: "Obsah odpovedí"
+      count:
+        one: "%{count} odpoveď"
+        other: "%{count} odpovedí"
+        few: "%{count} odpovede"
+        many: "%{count} odpovede"
+      show_directory: "Zobraziť obsah odpovedí"
+      show_timeline: "Zobraziť časovú os"
+      loading: "Načítavajú sa všetky odpovede…"
+      failed: "Obsah nie je úplný. Obnovte ho a skúste to znova."
+      empty: "Zatiaľ žiadne odpovede nezačínajú nadpisom s jediným znakom #."
+      refresh: "Obnoviť obsah"

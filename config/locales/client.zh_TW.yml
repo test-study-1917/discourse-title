@@ -1,0 +1,18 @@
+zh_TW:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "回覆目錄"
+  js:
+    reply_titles:
+      title: "回覆目錄"
+      count:
+        one: "%{count} 則"
+        other: "%{count} 則"
+      show_directory: "切換至回覆目錄"
+      show_timeline: "切換至時間軸"
+      loading: "正在讀取所有回覆…"
+      failed: "目錄尚未載入完整，請重新整理後再試。"
+      empty: "尚無首行以單一 # 標記標題的回覆。"
+      refresh: "重新整理目錄"

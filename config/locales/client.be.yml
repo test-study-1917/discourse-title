@@ -1,0 +1,20 @@
+be:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Змест адказаў"
+  js:
+    reply_titles:
+      title: "Змест адказаў"
+      count:
+        one: "%{count} адказ"
+        other: "%{count} адказу"
+        few: "%{count} адказы"
+        many: "%{count} адказаў"
+      show_directory: "Паказаць змест адказаў"
+      show_timeline: "Паказаць шкалу часу"
+      loading: "Чытанне ўсіх адказаў…"
+      failed: "Змест няпоўны. Абнавіце яго, каб паспрабаваць яшчэ раз."
+      empty: "Пакуль няма адказаў, якія пачынаюцца з загалоўка з адным #."
+      refresh: "Абнавіць змест"

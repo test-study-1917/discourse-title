@@ -1,0 +1,18 @@
+ur:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "جوابات کی فہرست"
+  js:
+    reply_titles:
+      title: "جوابات کی فہرست"
+      count:
+        one: "%{count} جواب"
+        other: "%{count} جوابات"
+      show_directory: "جوابات کی فہرست دکھائیں"
+      show_timeline: "ٹائم لائن دکھائیں"
+      loading: "تمام جوابات پڑھے جا رہے ہیں…"
+      failed: "فہرست نامکمل ہے۔ دوبارہ کوشش کرنے کے لیے تازہ کریں۔"
+      empty: "ابھی کوئی ایسا جواب نہیں جس کی پہلی سطر ایک # والے عنوان سے شروع ہوتی ہو۔"
+      refresh: "فہرست تازہ کریں"

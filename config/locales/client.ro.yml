@@ -1,0 +1,19 @@
+ro:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Cuprinsul răspunsurilor"
+  js:
+    reply_titles:
+      title: "Cuprinsul răspunsurilor"
+      count:
+        one: "%{count} răspuns"
+        other: "%{count} de răspunsuri"
+        few: "%{count} răspunsuri"
+      show_directory: "Arată cuprinsul răspunsurilor"
+      show_timeline: "Arată cronologia"
+      loading: "Se citesc toate răspunsurile…"
+      failed: "Cuprinsul este incomplet. Reîmprospătează pentru a încerca din nou."
+      empty: "Nu există încă răspunsuri care încep cu un titlu marcat cu un singur #."
+      refresh: "Reîmprospătează cuprinsul"

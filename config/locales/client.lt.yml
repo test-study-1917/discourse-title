@@ -1,0 +1,20 @@
+lt:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Atsakymų turinys"
+  js:
+    reply_titles:
+      title: "Atsakymų turinys"
+      count:
+        one: "%{count} atsakymas"
+        other: "%{count} atsakymų"
+        few: "%{count} atsakymai"
+        many: "%{count} atsakymo"
+      show_directory: "Rodyti atsakymų turinį"
+      show_timeline: "Rodyti laiko juostą"
+      loading: "Skaitomi visi atsakymai…"
+      failed: "Turinys nepilnas. Atnaujinkite ir bandykite dar kartą."
+      empty: "Dar nėra atsakymų, prasidedančių antrašte su vienu # ženklu."
+      refresh: "Atnaujinti turinį"

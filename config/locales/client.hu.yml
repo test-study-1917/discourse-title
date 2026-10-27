@@ -1,0 +1,18 @@
+hu:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Válaszjegyzék"
+  js:
+    reply_titles:
+      title: "Válaszjegyzék"
+      count:
+        one: "%{count} válasz"
+        other: "%{count} válasz"
+      show_directory: "Válaszjegyzék megjelenítése"
+      show_timeline: "Idővonal megjelenítése"
+      loading: "Az összes válasz beolvasása…"
+      failed: "A jegyzék hiányos. Frissítse az újrapróbálkozáshoz."
+      empty: "Még nincs egyetlen # jellel jelölt címsorral kezdődő válasz."
+      refresh: "Jegyzék frissítése"

@@ -1,0 +1,20 @@
+ru:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Оглавление ответов"
+  js:
+    reply_titles:
+      title: "Оглавление ответов"
+      count:
+        one: "%{count} ответ"
+        other: "%{count} ответа"
+        few: "%{count} ответа"
+        many: "%{count} ответов"
+      show_directory: "Показать оглавление ответов"
+      show_timeline: "Показать шкалу времени"
+      loading: "Чтение всех ответов…"
+      failed: "Оглавление загружено не полностью. Обновите его, чтобы повторить попытку."
+      empty: "Пока нет ответов, начинающихся с заголовка с одним символом #."
+      refresh: "Обновить оглавление"

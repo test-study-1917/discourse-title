@@ -1,0 +1,4 @@
+nl:
+  site_settings:
+    reply_titles_enabled: "Een overzicht tonen van antwoorden waarvan de eerste regel begint met een kop met één #."
+    reply_titles_categories: "Het antwoordenoverzicht alleen in deze categorieën tonen. Laat leeg om alle categorieën in te schakelen. Subcategorieën moeten afzonderlijk worden geselecteerd. Als categorieën zijn geselecteerd, verschijnt het overzicht niet in persoonlijke berichten."

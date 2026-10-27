@@ -1,0 +1,4 @@
+zh_TW:
+  site_settings:
+    reply_titles_enabled: "顯示回覆目錄，只收錄首行以單一 # 標記標題的回覆。"
+    reply_titles_categories: "僅在所選類別中顯示回覆目錄；留空則在所有類別生效。子類別需要個別選取。選取類別後，私人訊息中不顯示目錄。"

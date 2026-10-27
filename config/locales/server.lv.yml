@@ -1,0 +1,4 @@
+lv:
+  site_settings:
+    reply_titles_enabled: "Rādīt saturu atbildēm, kuru pirmā rinda sākas ar virsrakstu ar vienu # zīmi."
+    reply_titles_categories: "Rādīt atbilžu saturu tikai šajās kategorijās. Atstājiet tukšu, lai iespējotu visās kategorijās. Apakškategorijas jāizvēlas atsevišķi. Ja ir izvēlētas kategorijas, saturs netiek rādīts personiskajās ziņās."

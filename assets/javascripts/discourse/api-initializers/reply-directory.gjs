@@ -4,17 +4,29 @@ import { service } from "@ember/service";
 import { apiInitializer } from "discourse/lib/api";
 import TrackedMediaQuery from "discourse/lib/tracked-media-query";
 import ReplyDirectory from "../components/reply-directory.gjs";
+import { replyDirectoryEnabled } from "../lib/reply-directory-settings.js";
 
-const SidebarDirectory = <template>
-  {{#if @outletArgs.renderTimeline}}
-    {{#unless @outletArgs.topicProgressExpanded}}
+class SidebarDirectory extends Component {
+  @service siteSettings;
+
+  get visible() {
+    return (
+      this.args.outletArgs.renderTimeline &&
+      !this.args.outletArgs.topicProgressExpanded &&
+      replyDirectoryEnabled(this.args.outletArgs.topic, this.siteSettings)
+    );
+  }
+
+  <template>
+    {{#if this.visible}}
       <ReplyDirectory @topic={{@outletArgs.topic}} />
-    {{/unless}}
-  {{/if}}
-</template>;
+    {{/if}}
+  </template>
+}
 
 class InlineDirectory extends Component {
   @service site;
+  @service siteSettings;
 
   widthQuery = new TrackedMediaQuery("(min-width: 925px)");
 
@@ -24,7 +36,10 @@ class InlineDirectory extends Component {
   }
 
   get visible() {
-    return this.site.mobileView || !this.widthQuery.matches;
+    return (
+      (this.site.mobileView || !this.widthQuery.matches) &&
+      replyDirectoryEnabled(this.args.outletArgs.model, this.siteSettings)
+    );
   }
 
   <template>
@@ -35,10 +50,6 @@ class InlineDirectory extends Component {
 }
 
 export default apiInitializer((api) => {
-  if (!api.container.lookup("service:site-settings").reply_titles_enabled) {
-    return;
-  }
-
   api.renderInOutlet("topic-navigation", SidebarDirectory);
   api.renderInOutlet("topic-above-posts", InlineDirectory);
 });

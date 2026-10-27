@@ -1,0 +1,4 @@
+et:
+  site_settings:
+    reply_titles_enabled: "Näita sisukorda vastustest, mille esimene rida algab ühe märgiga # pealkirjaga."
+    reply_titles_categories: "Näita sisukorda ainult nendes kategooriates. Kõigi kategooriate lubamiseks jäta tühjaks. Alamkategooriad tuleb valida eraldi. Kui kategooriad on valitud, ei näidata sisukorda isiklikes sõnumites."

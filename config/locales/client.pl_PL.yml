@@ -1,0 +1,20 @@
+pl_PL:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Spis odpowiedzi"
+  js:
+    reply_titles:
+      title: "Spis odpowiedzi"
+      count:
+        one: "%{count} odpowiedź"
+        other: "%{count} odpowiedzi"
+        few: "%{count} odpowiedzi"
+        many: "%{count} odpowiedzi"
+      show_directory: "Pokaż spis odpowiedzi"
+      show_timeline: "Pokaż oś czasu"
+      loading: "Odczytywanie wszystkich odpowiedzi…"
+      failed: "Spis jest niekompletny. Odśwież, aby spróbować ponownie."
+      empty: "Nie ma jeszcze odpowiedzi zaczynających się od nagłówka z pojedynczym znakiem #."
+      refresh: "Odśwież spis"

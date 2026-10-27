@@ -1,0 +1,4 @@
+sq:
+  site_settings:
+    reply_titles_enabled: "Shfaq përmbajtjen e përgjigjeve, rreshti i parë i të cilave fillon me një titull me një shenjë të vetme #."
+    reply_titles_categories: "Shfaq përmbajtjen vetëm në këto kategori. Lëreni bosh për të aktivizuar të gjitha kategoritë. Nënkategoritë duhen zgjedhur veçmas. Kur zgjidhen kategori, përmbajtja nuk shfaqet në mesazhet personale."

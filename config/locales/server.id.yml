@@ -1,0 +1,4 @@
+id:
+  site_settings:
+    reply_titles_enabled: "Tampilkan daftar balasan yang baris pertamanya diawali judul dengan satu tanda #."
+    reply_titles_categories: "Tampilkan daftar balasan hanya dalam kategori ini. Biarkan kosong untuk mengaktifkan semua kategori. Subkategori harus dipilih secara terpisah. Jika kategori dipilih, daftar tidak ditampilkan dalam pesan pribadi."

@@ -1,0 +1,18 @@
+ug:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "جاۋابلار مۇندەرىجىسى"
+  js:
+    reply_titles:
+      title: "جاۋابلار مۇندەرىجىسى"
+      count:
+        one: "%{count} جاۋاب"
+        other: "%{count} جاۋاب"
+      show_directory: "جاۋابلار مۇندەرىجىسىنى كۆرسەت"
+      show_timeline: "ۋاقىت سىزىقىنى كۆرسەت"
+      loading: "بارلىق جاۋابلار ئوقۇلۇۋاتىدۇ…"
+      failed: "مۇندەرىجە تولۇق ئەمەس. قايتا سىناش ئۈچۈن يېڭىلاڭ."
+      empty: "تۇنجى قۇرى يەككە # بەلگىلىك ماۋزۇ بىلەن باشلانغان جاۋاب تېخى يوق."
+      refresh: "مۇندەرىجىنى يېڭىلا"

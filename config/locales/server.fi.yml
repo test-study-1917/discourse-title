@@ -1,0 +1,4 @@
+fi:
+  site_settings:
+    reply_titles_enabled: "Näytä hakemisto vastauksista, joiden ensimmäinen rivi alkaa yhden #-merkin otsikolla."
+    reply_titles_categories: "Näytä vastaushakemisto vain näillä alueilla. Jätä tyhjäksi, jos haluat ottaa käyttöön kaikilla alueilla. Ala-alueet on valittava erikseen. Jos alueita on valittu, hakemistoa ei näytetä henkilökohtaisissa viesteissä."

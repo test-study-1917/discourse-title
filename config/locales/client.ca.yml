@@ -1,0 +1,19 @@
+ca:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Índex de respostes"
+  js:
+    reply_titles:
+      title: "Índex de respostes"
+      count:
+        one: "%{count} resposta"
+        other: "%{count} respostes"
+        many: "%{count} respostes"
+      show_directory: "Mostra l’índex de respostes"
+      show_timeline: "Mostra la cronologia"
+      loading: "S’estan llegint totes les respostes…"
+      failed: "L’índex és incomplet. Actualitzeu-lo per tornar-ho a provar."
+      empty: "Encara no hi ha respostes que comencin amb un encapçalament amb un sol #."
+      refresh: "Actualitza l’índex"

@@ -1,0 +1,18 @@
+nl:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Antwoordenoverzicht"
+  js:
+    reply_titles:
+      title: "Antwoordenoverzicht"
+      count:
+        one: "%{count} antwoord"
+        other: "%{count} antwoorden"
+      show_directory: "Antwoordenoverzicht tonen"
+      show_timeline: "Tijdlijn tonen"
+      loading: "Alle antwoorden worden gelezen…"
+      failed: "Het overzicht is onvolledig. Vernieuw om het opnieuw te proberen."
+      empty: "Er zijn nog geen antwoorden die beginnen met een kop met één #."
+      refresh: "Overzicht vernieuwen"

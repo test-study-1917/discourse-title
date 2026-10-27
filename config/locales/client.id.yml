@@ -1,0 +1,18 @@
+id:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Daftar balasan"
+  js:
+    reply_titles:
+      title: "Daftar balasan"
+      count:
+        one: "%{count} balasan"
+        other: "%{count} balasan"
+      show_directory: "Tampilkan daftar balasan"
+      show_timeline: "Tampilkan linimasa"
+      loading: "Membaca semua balasan…"
+      failed: "Daftar belum lengkap. Segarkan untuk mencoba lagi."
+      empty: "Belum ada balasan yang diawali judul dengan satu tanda #."
+      refresh: "Segarkan daftar"

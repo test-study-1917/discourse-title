@@ -1,0 +1,20 @@
+cs:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Obsah odpovědí"
+  js:
+    reply_titles:
+      title: "Obsah odpovědí"
+      count:
+        one: "%{count} odpověď"
+        other: "%{count} odpovědí"
+        few: "%{count} odpovědi"
+        many: "%{count} odpovědi"
+      show_directory: "Zobrazit obsah odpovědí"
+      show_timeline: "Zobrazit časovou osu"
+      loading: "Načítání všech odpovědí…"
+      failed: "Obsah není úplný. Obnovte jej a zkuste to znovu."
+      empty: "Zatím žádné odpovědi nezačínají nadpisem s jediným znakem #."
+      refresh: "Obnovit obsah"

@@ -1,0 +1,20 @@
+uk:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Зміст відповідей"
+  js:
+    reply_titles:
+      title: "Зміст відповідей"
+      count:
+        one: "%{count} відповідь"
+        other: "%{count} відповіді"
+        few: "%{count} відповіді"
+        many: "%{count} відповідей"
+      show_directory: "Показати зміст відповідей"
+      show_timeline: "Показати шкалу часу"
+      loading: "Читання всіх відповідей…"
+      failed: "Зміст завантажено не повністю. Оновіть його, щоб спробувати знову."
+      empty: "Ще немає відповідей, які починаються із заголовка з одним символом #."
+      refresh: "Оновити зміст"

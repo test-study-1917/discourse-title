@@ -1,0 +1,4 @@
+ro:
+  site_settings:
+    reply_titles_enabled: "Arată un cuprins al răspunsurilor al căror prim rând începe cu un titlu marcat cu un singur #."
+    reply_titles_categories: "Arată cuprinsul numai în aceste categorii. Lasă necompletat pentru toate categoriile. Subcategoriile trebuie selectate separat. Când sunt selectate categorii, cuprinsul nu apare în mesajele personale."

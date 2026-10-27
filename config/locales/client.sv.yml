@@ -1,0 +1,18 @@
+sv:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Svarsöversikt"
+  js:
+    reply_titles:
+      title: "Svarsöversikt"
+      count:
+        one: "%{count} svar"
+        other: "%{count} svar"
+      show_directory: "Visa svarsöversikt"
+      show_timeline: "Visa tidslinje"
+      loading: "Läser in alla svar…"
+      failed: "Översikten är ofullständig. Uppdatera för att försöka igen."
+      empty: "Inga svar börjar ännu med en rubrik med ett enda #."
+      refresh: "Uppdatera översikten"

@@ -1,0 +1,19 @@
+bs_BA:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Sadržaj odgovora"
+  js:
+    reply_titles:
+      title: "Sadržaj odgovora"
+      count:
+        one: "%{count} odgovor"
+        other: "%{count} odgovora"
+        few: "%{count} odgovora"
+      show_directory: "Prikaži sadržaj odgovora"
+      show_timeline: "Prikaži vremensku liniju"
+      loading: "Učitavanje svih odgovora…"
+      failed: "Sadržaj nije potpun. Osvježite da pokušate ponovo."
+      empty: "Još nema odgovora koji počinju naslovom s jednim znakom #."
+      refresh: "Osvježi sadržaj"

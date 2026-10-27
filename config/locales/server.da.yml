@@ -1,0 +1,4 @@
+da:
+  site_settings:
+    reply_titles_enabled: "Vis en oversigt over svar, hvis første linje begynder med en overskrift med ét #."
+    reply_titles_categories: "Vis kun svaroversigten i disse kategorier. Lad feltet være tomt for at aktivere alle kategorier. Underkategorier skal vælges separat. Når kategorier er valgt, vises oversigten ikke i personlige beskeder."

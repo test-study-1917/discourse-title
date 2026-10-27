@@ -1,0 +1,18 @@
+ja:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "返信の目次"
+  js:
+    reply_titles:
+      title: "返信の目次"
+      count:
+        one: "%{count} 件の返信"
+        other: "%{count} 件の返信"
+      show_directory: "返信の目次を表示"
+      show_timeline: "タイムラインを表示"
+      loading: "すべての返信を読み込み中…"
+      failed: "目次の読み込みが完了していません。更新して再試行してください。"
+      empty: "先頭行が単一の # を使った見出しになっている返信はまだありません。"
+      refresh: "目次を更新"

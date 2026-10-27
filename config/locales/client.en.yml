@@ -1,4 +1,9 @@
 en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Reply contents"
   js:
     reply_titles:
       title: "Reply contents"

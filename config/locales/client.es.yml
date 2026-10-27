@@ -1,0 +1,19 @@
+es:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Índice de respuestas"
+  js:
+    reply_titles:
+      title: "Índice de respuestas"
+      count:
+        one: "%{count} respuesta"
+        other: "%{count} respuestas"
+        many: "%{count} respuestas"
+      show_directory: "Mostrar índice de respuestas"
+      show_timeline: "Mostrar cronología"
+      loading: "Leyendo todas las respuestas…"
+      failed: "El índice está incompleto. Actualiza para volver a intentarlo."
+      empty: "Todavía no hay respuestas que empiecen con un encabezado con un solo #."
+      refresh: "Actualizar índice"

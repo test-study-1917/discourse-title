@@ -1,0 +1,18 @@
+fi:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Vastaushakemisto"
+  js:
+    reply_titles:
+      title: "Vastaushakemisto"
+      count:
+        one: "%{count} vastaus"
+        other: "%{count} vastausta"
+      show_directory: "Näytä vastaushakemisto"
+      show_timeline: "Näytä aikajana"
+      loading: "Luetaan kaikkia vastauksia…"
+      failed: "Hakemisto on puutteellinen. Päivitä ja yritä uudelleen."
+      empty: "Yksikään vastaus ei vielä ala yhden #-merkin otsikolla."
+      refresh: "Päivitä hakemisto"

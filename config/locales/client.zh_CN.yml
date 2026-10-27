@@ -1,8 +1,14 @@
 zh_CN:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "回帖目录"
   js:
     reply_titles:
       title: "回帖目录"
       count:
+        one: "%{count} 条"
         other: "%{count} 条"
       show_directory: "切换到回帖目录"
       show_timeline: "切换到时间轴"

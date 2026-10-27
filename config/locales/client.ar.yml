@@ -1,0 +1,22 @@
+ar:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "فهرس الردود"
+  js:
+    reply_titles:
+      title: "فهرس الردود"
+      count:
+        one: "رد واحد (%{count})"
+        other: "%{count} رد"
+        zero: "%{count} ردود"
+        two: "ردّان (%{count})"
+        few: "%{count} ردود"
+        many: "%{count} ردًا"
+      show_directory: "إظهار فهرس الردود"
+      show_timeline: "إظهار المخطط الزمني"
+      loading: "جارٍ قراءة جميع الردود…"
+      failed: "الفهرس غير مكتمل. حدّثه للمحاولة مجددًا."
+      empty: "لا توجد ردود تبدأ بعنوان بعلامة # واحدة بعد."
+      refresh: "تحديث الفهرس"

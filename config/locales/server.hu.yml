@@ -1,0 +1,4 @@
+hu:
+  site_settings:
+    reply_titles_enabled: "Jegyzék megjelenítése azokról a válaszokról, amelyek első sora egyetlen # jellel jelölt címsorral kezdődik."
+    reply_titles_categories: "A válaszjegyzék csak ezekben a kategóriákban jelenjen meg. Az összes kategória engedélyezéséhez hagyja üresen. Az alkategóriákat külön kell kiválasztani. Ha kategóriák vannak kiválasztva, a jegyzék nem jelenik meg a személyes üzenetekben."

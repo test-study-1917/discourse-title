@@ -1,0 +1,4 @@
+pl_PL:
+  site_settings:
+    reply_titles_enabled: "Pokaż spis odpowiedzi, których pierwszy wiersz zaczyna się od nagłówka z pojedynczym znakiem #."
+    reply_titles_categories: "Pokazuj spis odpowiedzi tylko w tych kategoriach. Pozostaw puste, aby włączyć go we wszystkich kategoriach. Podkategorie trzeba wybrać osobno. Po wybraniu kategorii spis nie jest wyświetlany w wiadomościach osobistych."

@@ -1,4 +1,8 @@
-plugins:
+reply_titles:
   reply_titles_enabled:
     default: true
+    client: true
+  reply_titles_categories:
+    default: ""
+    type: category_list
     client: true

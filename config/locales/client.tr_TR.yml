@@ -1,0 +1,18 @@
+tr_TR:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Yanıt dizini"
+  js:
+    reply_titles:
+      title: "Yanıt dizini"
+      count:
+        one: "%{count} yanıt"
+        other: "%{count} yanıt"
+      show_directory: "Yanıt dizinini göster"
+      show_timeline: "Zaman çizelgesini göster"
+      loading: "Tüm yanıtlar okunuyor…"
+      failed: "Dizin eksik. Yeniden denemek için yenileyin."
+      empty: "Henüz tek bir # işaretli başlıkla başlayan yanıt yok."
+      refresh: "Dizini yenile"

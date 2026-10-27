@@ -1,0 +1,19 @@
+he:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "תוכן התגובות"
+  js:
+    reply_titles:
+      title: "תוכן התגובות"
+      count:
+        one: "%{count} תגובה"
+        other: "%{count} תגובות"
+        two: "%{count} תגובות"
+      show_directory: "הצגת תוכן התגובות"
+      show_timeline: "הצגת ציר הזמן"
+      loading: "כל התגובות נקראות…"
+      failed: "התוכן אינו שלם. יש לרענן כדי לנסות שוב."
+      empty: "עדיין אין תגובות שמתחילות בכותרת עם סימן # יחיד."
+      refresh: "רענון התוכן"

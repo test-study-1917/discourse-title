@@ -1,0 +1,4 @@
+gl:
+  site_settings:
+    reply_titles_enabled: "Amosar un índice das respostas cuxa primeira liña comece cun título cun único #."
+    reply_titles_categories: "Amosar o índice só nestas categorías. Déixao baleiro para activalo en todas as categorías. As subcategorías deben seleccionarse por separado. Se se seleccionan categorías, o índice non aparece nas mensaxes persoais."

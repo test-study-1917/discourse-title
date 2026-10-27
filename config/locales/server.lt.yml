@@ -1,0 +1,4 @@
+lt:
+  site_settings:
+    reply_titles_enabled: "Rodyti atsakymų, kurių pirmoji eilutė prasideda antrašte su vienu # ženklu, turinį."
+    reply_titles_categories: "Rodyti atsakymų turinį tik šiose kategorijose. Palikite tuščią, kad įjungtumėte visose kategorijose. Pakategores reikia pasirinkti atskirai. Pasirinkus kategorijas, turinys asmeninėse žinutėse nerodomas."

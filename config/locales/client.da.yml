@@ -1,0 +1,18 @@
+da:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Svaroversigt"
+  js:
+    reply_titles:
+      title: "Svaroversigt"
+      count:
+        one: "%{count} svar"
+        other: "%{count} svar"
+      show_directory: "Vis svaroversigt"
+      show_timeline: "Vis tidslinje"
+      loading: "Indlæser alle svar…"
+      failed: "Oversigten er ufuldstændig. Opdater for at prøve igen."
+      empty: "Ingen svar begynder endnu med en overskrift med ét #."
+      refresh: "Opdater oversigten"

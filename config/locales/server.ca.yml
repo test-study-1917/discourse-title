@@ -1,0 +1,4 @@
+ca:
+  site_settings:
+    reply_titles_enabled: "Mostra un índex de les respostes la primera línia de les quals comença amb un encapçalament amb un sol #."
+    reply_titles_categories: "Mostra l’índex només en aquestes categories. Deixeu-ho buit per activar-lo en totes les categories. Les subcategories s’han de seleccionar per separat. Si se seleccionen categories, no es mostra en els missatges personals."

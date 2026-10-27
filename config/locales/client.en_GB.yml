@@ -1,0 +1,18 @@
+en_GB:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Reply contents"
+  js:
+    reply_titles:
+      title: "Reply contents"
+      count:
+        one: "%{count} reply"
+        other: "%{count} replies"
+      show_directory: "Show reply contents"
+      show_timeline: "Show timeline"
+      loading: "Reading all replies…"
+      failed: "The contents are incomplete. Refresh to try again."
+      empty: "No replies start with a single # heading yet."
+      refresh: "Refresh contents"

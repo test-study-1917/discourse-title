@@ -1,0 +1,4 @@
+fr:
+  site_settings:
+    reply_titles_enabled: "Afficher un sommaire des réponses dont la première ligne commence par un titre avec un seul #."
+    reply_titles_categories: "Afficher le sommaire uniquement dans ces catégories. Laissez vide pour activer toutes les catégories. Les sous-catégories doivent être sélectionnées séparément. Si des catégories sont sélectionnées, le sommaire n’apparaît pas dans les messages personnels."

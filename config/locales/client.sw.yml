@@ -1,0 +1,18 @@
+sw:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Orodha ya majibu"
+  js:
+    reply_titles:
+      title: "Orodha ya majibu"
+      count:
+        one: "Jibu %{count}"
+        other: "Majibu %{count}"
+      show_directory: "Onyesha orodha ya majibu"
+      show_timeline: "Onyesha ratiba"
+      loading: "Inasoma majibu yote…"
+      failed: "Orodha haijakamilika. Onyesha upya ili ujaribu tena."
+      empty: "Bado hakuna majibu yanayoanza na kichwa chenye alama moja ya #."
+      refresh: "Onyesha orodha upya"

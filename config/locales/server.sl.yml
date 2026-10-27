@@ -1,0 +1,4 @@
+sl:
+  site_settings:
+    reply_titles_enabled: "Prikaži kazalo odgovorov, katerih prva vrstica se začne z naslovom z enim znakom #."
+    reply_titles_categories: "Prikaži kazalo samo v teh kategorijah. Za vse kategorije pustite prazno. Podkategorije je treba izbrati ločeno. Ko so izbrane kategorije, se kazalo ne prikaže v osebnih sporočilih."

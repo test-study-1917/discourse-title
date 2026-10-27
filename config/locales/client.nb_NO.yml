@@ -1,0 +1,18 @@
+nb_NO:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Svaroversikt"
+  js:
+    reply_titles:
+      title: "Svaroversikt"
+      count:
+        one: "%{count} svar"
+        other: "%{count} svar"
+      show_directory: "Vis svaroversikt"
+      show_timeline: "Vis tidslinje"
+      loading: "Leser alle svar…"
+      failed: "Oversikten er ufullstendig. Oppdater for å prøve igjen."
+      empty: "Ingen svar begynner ennå med en overskrift med ett enkelt #."
+      refresh: "Oppdater oversikten"

@@ -1,0 +1,18 @@
+th:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "สารบัญคำตอบ"
+  js:
+    reply_titles:
+      title: "สารบัญคำตอบ"
+      count:
+        one: "%{count} คำตอบ"
+        other: "%{count} คำตอบ"
+      show_directory: "แสดงสารบัญคำตอบ"
+      show_timeline: "แสดงไทม์ไลน์"
+      loading: "กำลังอ่านคำตอบทั้งหมด…"
+      failed: "สารบัญยังไม่สมบูรณ์ รีเฟรชเพื่อลองอีกครั้ง"
+      empty: "ยังไม่มีคำตอบที่เริ่มต้นด้วยหัวข้อที่ใช้เครื่องหมาย # เพียงตัวเดียว"
+      refresh: "รีเฟรชสารบัญ"

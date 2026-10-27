@@ -1,0 +1,4 @@
+sk:
+  site_settings:
+    reply_titles_enabled: "Zobrazovať obsah odpovedí, ktorých prvý riadok začína nadpisom s jediným znakom #."
+    reply_titles_categories: "Zobrazovať obsah iba v týchto kategóriách. Prázdne pole povolí všetky kategórie. Podkategórie je potrebné vybrať samostatne. Ak sú vybrané kategórie, obsah sa v osobných správach nezobrazuje."

@@ -1,0 +1,19 @@
+lv:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          reply_titles: "Atbilžu saturs"
+  js:
+    reply_titles:
+      title: "Atbilžu saturs"
+      count:
+        one: "%{count} atbilde"
+        other: "%{count} atbildes"
+        zero: "%{count} atbilžu"
+      show_directory: "Rādīt atbilžu saturu"
+      show_timeline: "Rādīt laika skalu"
+      loading: "Tiek lasītas visas atbildes…"
+      failed: "Saturs nav pilnīgs. Atsvaidziniet, lai mēģinātu vēlreiz."
+      empty: "Vēl nav atbilžu, kas sākas ar virsrakstu ar vienu # zīmi."
+      refresh: "Atsvaidzināt saturu"

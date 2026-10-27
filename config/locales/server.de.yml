@@ -1,0 +1,4 @@
+de:
+  site_settings:
+    reply_titles_enabled: "Ein Verzeichnis der Antworten anzeigen, deren erste Zeile mit einer Überschrift mit einem einzelnen # beginnt."
+    reply_titles_categories: "Das Antwortverzeichnis nur in diesen Kategorien anzeigen. Für alle Kategorien leer lassen. Unterkategorien müssen separat ausgewählt werden. Wenn Kategorien ausgewählt sind, wird das Verzeichnis in persönlichen Nachrichten nicht angezeigt."
